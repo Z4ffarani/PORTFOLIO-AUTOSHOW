@@ -33,7 +33,7 @@ Shows only favorited car cards and the option to have them (or not) "compete" ba
 # SIMULATION
 To open the project, it is necessary to have an **IDE** installed.
 <br>
-To execute the project, download and install [**Node.js**](s://nodejs.org/en) from the official website.
+To execute the project, download and install [Node.js](https://nodejs.org/en) from the official website.
 
 ### React.js
 - After cloning the repository, in a new terminal, execute the commands **cd PORTFOLIO-AUTOSHOW** and **cd React.js** to navigate to the correct folder. Then, use the command **npm install**.
@@ -49,7 +49,7 @@ To execute the project, download and install [**Node.js**](s://nodejs.org/en) fr
 
 ###
 # NOTES
-If you have any doubts, **VS Code** is a great **IDE** for this project.
+If you have any doubts, **VS Code** is a great IDE for this project.
 
 If the initialization commands are run in the terminal before the guided installations, use the shortcut **Ctrl + C** in terminal to cancel the operation.
 
