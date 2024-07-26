@@ -55,6 +55,8 @@ The servers are configured to work on a local network, allowing access from any 
 
 It is possible to view the JSON objects stored in the MongoDB database by typing **/cars**, **/favorites**, or **/race** after the Back-End server URL **http://localhost:8000**.
 
+Sometimes, an uncaught runtime error can occur when adding car cards to the competition area due to database delays. If this happens, press F5 on your keyboard to reset the page, remove the car card from the competition area, and try again.
+
 
 
 ###
