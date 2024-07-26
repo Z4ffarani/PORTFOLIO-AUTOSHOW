@@ -39,7 +39,7 @@ To use the project, download and install [**Node.js**](https://nodejs.org/en) fr
 - To view the website, run the command **npm start** to start the Front-End server. You will be redirected to the URL **http://localhost:3000**. The server supports hot-reloading, reflecting any code changes instantly in the browser.
 
 ### Node.js
-- In the terminal, run the commands **cd PORTFOLIO-AUTOSHOW** (if not already in it) and **cd Node.js**. Then, use the command **npm install nodemon** to install an automatic Node.js update tool, **npm install mongodb** to install MongoDB dependencies, and **npm install mongoose** to install a data modeling library for MongoDB and Node.js.
+- In another terminal, run the commands **cd PORTFOLIO-AUTOSHOW** and **cd Node.js** to navigate to the correct folder. Then, use the command **npm install dotenv** to install an environment variables library.
 
 - Run the command **nodemon server.js** to start the Back-End server. It will operate at the URL **http://localhost:8000**.
 
