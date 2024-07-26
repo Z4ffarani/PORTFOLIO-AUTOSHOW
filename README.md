@@ -32,6 +32,7 @@ Shows only favorited car cards and the option to have them (or not) "compete" ba
 ###
 # SIMULATION
 To open the project, it is necessary to have an **IDE** installed.
+<br>
 To execute the project, download and install [**Node.js**](https://nodejs.org/en) from the official website.
 
 ### React.js
