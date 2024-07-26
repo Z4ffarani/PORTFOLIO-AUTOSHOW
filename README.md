@@ -30,8 +30,9 @@ Shows only favorited car cards and the option to have them (or not) "compete" ba
 
 
 ###
-# REQUIREMENTS
-To use the project, download and install [**Node.js**](https://nodejs.org/en) from the official website.
+# SIMULATION
+To open the project, it is necessary to have an **IDE** installed.
+To execute the project, download and install [**Node.js**](https://nodejs.org/en) from the official website.
 
 ### React.js
 - After cloning the repository, in a new terminal, execute the commands **cd PORTFOLIO-AUTOSHOW** and **cd React.js** to navigate to the correct folder. Then, use the command **npm install**.
@@ -47,20 +48,26 @@ To use the project, download and install [**Node.js**](https://nodejs.org/en) fr
 
 ###
 # NOTES
-If the initialization commands are run in the terminal before the guided installations, use the shortcut **Ctrl + C** to cancel the operation.
+If you have any doubts, **VS Code** is a great **IDE** for this project.
+
+If the initialization commands are run in the terminal before the guided installations, use the shortcut **Ctrl + C** in terminal to cancel the operation.
 
 The **cd..** command allows you to return to the previous folders.
+
+Sometimes, an uncaught runtime error can occur when adding car cards to the competition area due to database delays. If this happens, press F5 on your keyboard to reset the page, remove the car card from the competition area, and try again.
 
 The servers are configured to work on a local network, allowing access from any origin due to general [**CORS**](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) settings.
 
 It is possible to view the JSON objects stored in the MongoDB database by typing **/cars**, **/favorites**, or **/race** after the Back-End server URL **http://localhost:8000**.
 
-Sometimes, an uncaught runtime error can occur when adding car cards to the competition area due to database delays. If this happens, press F5 on your keyboard to reset the page, remove the car card from the competition area, and try again.
-
 
 
 ###
 # TECHNOLOGIES
+### Integrated Development Environment (IDE)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- **Visual Studio Code** (Source-code editor. Also commonly referred to as VS Code).
+
 ### Programming Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
