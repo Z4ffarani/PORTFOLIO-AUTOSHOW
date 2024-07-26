@@ -1,7 +1,7 @@
 # PROJECT
 - Fictitious sports car dealership website developed with **React.js**, **Node.js**, and **MongoDB Atlas**.
 - Front-End designed with **React.js** components, along with the **Axios** and **styled-components** libraries.
-- Back-End coded with **Node.js**, **Express.js** and **Mongoose** to provide RESTful API routes, use HTTP methods, and handle JSON objects, stored in a database on **MongoDB Atlas** for the Front-End.
+- Back-End coded with **Node.js**, **Express.js**, and **Mongoose** to provide RESTful API routes using HTTP methods, handle JSON objects, and store data in a database on **MongoDB Atlas** for the Front-End.
 
 
 
@@ -33,7 +33,7 @@ Shows only favorited car cards and the option to have them (or not) "compete" ba
 # SIMULATION
 To open the project, it is necessary to have an **IDE** installed.
 <br>
-To execute the project, download and install [**Node.js**](https://nodejs.org/en) from the official website.
+To execute the project, download and install [**Node.js**](s://nodejs.org/en) from the official website.
 
 ### React.js
 - After cloning the repository, in a new terminal, execute the commands **cd PORTFOLIO-AUTOSHOW** and **cd React.js** to navigate to the correct folder. Then, use the command **npm install**.
