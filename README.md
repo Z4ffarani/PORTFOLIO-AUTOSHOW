@@ -49,7 +49,7 @@ To execute the project, download and install [Node.js](https://nodejs.org/en) fr
 
 ###
 # NOTES
-If you have any doubts, **VS Code** is a great IDE for this project.
+If you have any doubts, [**VS Code**](https://code.visualstudio.com/download) is a great IDE for this project.
 
 If the initialization commands are run in the terminal before the guided installations, use the shortcut **Ctrl + C** in terminal to cancel the operation.
 
