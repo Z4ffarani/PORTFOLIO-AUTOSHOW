@@ -100,9 +100,9 @@ It is possible to view the JSON objects stored in the MongoDB database by typing
 - **dotenv** (Library for loading environment variables from a ".env" file, used to manage sensitive and environment-specific configurations securely).
 
 ### Development tools
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)](https://nodemon.io/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 - **npm** (Package manager for Node.js).
 - **Nodemon** (Tool that automatically restarts the Node.js server upon detecting changes).
 - **Postman** (Tool for testing and debugging APIs, ensuring server routes work correctly).
